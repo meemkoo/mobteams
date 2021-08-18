@@ -1,0 +1,1 @@
+team join Human @e[type=iron_golem]

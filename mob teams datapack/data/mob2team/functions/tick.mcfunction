@@ -1,1 +1,5 @@
-
+team join Creeper @e[type=creeper]
+team join Fox @e[type=fox]
+team join Human @e[type=villager]
+team join phontom @e[type=phantom]
+team join enderman @e[type=enderman]
